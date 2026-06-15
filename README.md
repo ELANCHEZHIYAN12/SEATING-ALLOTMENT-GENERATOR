@@ -14,7 +14,11 @@ john
 === Seating Allotment ===
 -------------------------
 Seat 1 -> arun
+
 Seat 2 -> dinesh
+
 Seat 3 -> dhanin
+
 Seat 4 -> joe
+
 Seat 5 -> john
