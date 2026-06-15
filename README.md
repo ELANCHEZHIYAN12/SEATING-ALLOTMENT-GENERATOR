@@ -3,7 +3,9 @@ JAVA PROGRAM
 
 Output:
 
-Enter number of students: 5
+Enter number of students: 5 
+
+
 Enter student names:
 arun
 dinesh
